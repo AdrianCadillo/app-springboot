@@ -1,0 +1,5 @@
+aplicacion\web\spring\boot\model\Persona.class
+aplicacion\web\spring\boot\controllers\Humano.class
+aplicacion\web\spring\boot\controllers\PersonaController.class
+aplicacion\web\spring\boot\AppApplication.class
+aplicacion\web\spring\boot\controllers\ApiController.class
